@@ -28,7 +28,7 @@ body {
 
 .card-wrapper {
     border: 1px solid var(--Black);
-    width: 375px;
+    width: 384px;
     border-radius: 16px;
     overflow: hidden;
     padding: 20px;
@@ -99,7 +99,7 @@ p.description {
         scale: 1.2;
     }
 
-    & h3 {
+    & h2 {
         font-size: 1rem;
         font-weight: 800;
     }
